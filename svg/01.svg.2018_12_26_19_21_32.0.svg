@@ -1,0 +1,2180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   enable-background="new"
+   version="1.1"
+   viewBox="0 0 1900 600"
+   id="svg1214"
+   sodipodi:docname="01.svg">
+  <sodipodi:namedview
+     inkscape:current-layer="g1212"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:cy="139.02143"
+     inkscape:cx="986.00228"
+     inkscape:zoom="1.4189474"
+     showgrid="false"
+     id="namedview1216"
+     inkscape:window-height="703"
+     inkscape:window-width="1366"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <metadata
+     id="metadata1218">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs264">
+    <linearGradient
+       id="kd">
+      <stop
+         stop-color="#858585"
+         offset="0"
+         id="stop2" />
+      <stop
+         offset="1"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="kb">
+      <stop
+         stop-color="#120007"
+         offset="0"
+         id="stop7" />
+      <stop
+         stop-color="#a91c00"
+         offset=".5"
+         id="stop9" />
+      <stop
+         stop-color="#f83a00"
+         offset="1"
+         id="stop11" />
+    </linearGradient>
+    <linearGradient
+       id="kc">
+      <stop
+         offset="0"
+         id="stop14" />
+      <stop
+         stop-opacity="0"
+         offset="1"
+         id="stop16" />
+    </linearGradient>
+    <linearGradient
+       id="ka">
+      <stop
+         stop-color="#fff"
+         offset="0"
+         id="stop19" />
+      <stop
+         stop-color="#fff"
+         stop-opacity=".39216"
+         offset=".5"
+         id="stop21" />
+      <stop
+         stop-color="#fff"
+         stop-opacity="0"
+         offset="1"
+         id="stop23" />
+    </linearGradient>
+    <linearGradient
+       id="kih"
+       x1="148.58"
+       x2="148.58"
+       y1="467.1"
+       y2="489.53"
+       gradientTransform="translate(24.605 158.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kex"
+       cx="310.94"
+       cy="583.55"
+       r="32.188"
+       gradientTransform="matrix(1 0 0 .13447 -444.21 403.22)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kew"
+       cx="302.51"
+       cy="470.08"
+       r="32.195"
+       gradientTransform="matrix(2.2069 .017437 -.0038826 .4914 -805.77 227.09)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kev"
+       cx="-145.29"
+       cy="656.59"
+       r="15.829"
+       gradientTransform="matrix(2.6029 0 0 1.6256 266.21 -417.7)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="keu"
+       cx="-172.45"
+       cy="645.4"
+       r="3.7656"
+       gradientTransform="matrix(2.0965 0 0 3.3531 216.14 -1525.8)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="ket"
+       cx="301.83"
+       cy="759.31"
+       r="18.794"
+       gradientTransform="matrix(1.08 0 0 .77 -468 67.656)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kig"
+       x1="732.04"
+       x2="1087.8"
+       y1="541.1"
+       y2="-306.2"
+       gradientTransform="translate(-562.62 143)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kes"
+       cx="230.87"
+       cy="693.61"
+       r="203.72"
+       gradientTransform="matrix(4.9296 1.3209 -.66594 2.4853 400.13 -908.95)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="ker"
+       cx="357.21"
+       cy="648.55"
+       r="208.7"
+       gradientTransform="matrix(5.8218 1.56 -.76532 2.8562 196.07 -1588)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="keq"
+       cx="1638.6"
+       cy="670.35"
+       r="6.625"
+       gradientTransform="matrix(2.0492 0 0 5.2686 -2163 -2964.2)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kif"
+       x1="1609.2"
+       x2="1659.2"
+       y1="668.22"
+       y2="677.47"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="kie"
+       x1="1551.9"
+       x2="1635"
+       y1="733.58"
+       y2="740.84"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kep"
+       cx="1694"
+       cy="813.9"
+       r="21.232"
+       gradientTransform="matrix(1 0 0 2.9758 -443.85 -1710.8)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="keo"
+       cx="1637.7"
+       cy="805.01"
+       r="9.2278"
+       gradientTransform="matrix(3.5099 .94047 -1.8261 6.8149 -3084.4 -6328.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kid"
+       x1="1680.4"
+       x2="1671.7"
+       y1="664.01"
+       y2="671.22"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="ken"
+       cx="346.03"
+       cy="881.92"
+       r="141.95"
+       gradientTransform="matrix(27.031 -8.3262e-8 0 1.9956 -9448.5 -978.47)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kic"
+       x1="904.47"
+       x2="902.03"
+       y1="494.52"
+       y2="483.73"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kib"
+       x1="432.26"
+       x2="424.56"
+       y1="907.16"
+       y2="827.19"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="kia"
+       x1="445.97"
+       x2="484.96"
+       y1="339.58"
+       y2="474.73"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="khz"
+       x1="977.39"
+       x2="1078.4"
+       y1="741.25"
+       y2="740.35"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khy"
+       x1="551.62"
+       x2="536.44"
+       y1="755.23"
+       y2="736.94"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khx"
+       x1="1066"
+       x2="1054.6"
+       y1="906.74"
+       y2="934.3"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khw"
+       x1="712.66"
+       x2="1024.5"
+       y1="268.83"
+       y2="433.59"
+       gradientTransform="matrix(1 0 0 1.0027 -449.97 -102.19)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="khv"
+       x1="1017.2"
+       x2="1098.1"
+       y1="607.38"
+       y2="417.62"
+       gradientTransform="translate(27.048 -7.0065)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kem"
+       cx="1410.4"
+       cy="419.39"
+       r="115.66"
+       gradientTransform="matrix(4.1425 1.11 -.40484 1.5109 -4653.6 -1882.8)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kel"
+       cx="875.17"
+       cy="435.6"
+       r="214.36"
+       gradientTransform="matrix(5.1974 0 0 1.1123 -3660.3 -78.041)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kek"
+       cx="682.58"
+       cy="448.5"
+       r="1.3904"
+       gradientTransform="matrix(7.2158 1.9335 -8.7376 32.609 -296.96 -15504)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kej"
+       cx="1161.9"
+       cy="601.76"
+       r="72.167"
+       gradientTransform="matrix(.65571 0 0 .53895 416.73 257.12)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kei"
+       cx="1230.5"
+       cy="503.31"
+       r="56.844"
+       gradientTransform="matrix(1.8107 0 0 .32891 -1447.3 246.54)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="keh"
+       cx="655.31"
+       cy="520.52"
+       r="28.813"
+       gradientTransform="matrix(-.014642 .89577 .087112 .0025563 671.51 -63.541)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="keg"
+       cx="655.31"
+       cy="520.52"
+       r="28.813"
+       gradientTransform="matrix(.89396 .058849 -.0045944 .087028 101.94 429.52)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kef"
+       cx="1280.5"
+       cy="729.67"
+       r="131.06"
+       gradientTransform="matrix(2.1857 0 0 1.9796 -1962.2 -817.51)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kee"
+       cx="1438.5"
+       cy="543.49"
+       r="10.781"
+       gradientTransform="matrix(4.2288 1.1331 -.51072 1.906 -4779.9 -2236.3)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="ked"
+       cx="934.23"
+       cy="600.79"
+       r="46.219"
+       gradientTransform="matrix(1.466 .3928 -1.1204 4.1813 258.01 -2225)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khu"
+       x1="412.74"
+       x2="480.02"
+       y1="690"
+       y2="679.5"
+       gradientTransform="matrix(.95889 0 0 .90406 48.51 56.072)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kht"
+       x1="1135.2"
+       x2="1322.1"
+       y1="762.34"
+       y2="846.97"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kec"
+       cx="1054.8"
+       cy="958.91"
+       r="36.344"
+       gradientTransform="matrix(1.9893 0 0 2.3698 -1483.3 -1465.7)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="keb"
+       cx="-348.54"
+       cy="659.06"
+       r="49.984"
+       gradientTransform="matrix(1 0 0 .52204 27.048 283.98)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kea"
+       cx="756.24"
+       cy="896.23"
+       r="18.375"
+       gradientTransform="matrix(65.647 37.901 -18.403 31.874 -32857 -56430)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kdz"
+       cx="691.47"
+       cy="800.54"
+       r="1.4037"
+       gradientTransform="matrix(1.8312 0 0 1.8312 -1016.9 -767.38)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdy"
+       cx="130.56"
+       cy="680.21"
+       r="74.25"
+       gradientTransform="matrix(1.9829 0 0 .32215 -118.99 474.24)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdx"
+       cx="1047.5"
+       cy="948.15"
+       r="36.344"
+       gradientTransform="matrix(1.785 0 0 1.0897 -1276.2 -189.7)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdw"
+       cx="905.63"
+       cy="486.69"
+       r="90.578"
+       gradientTransform="matrix(3.1337 0 0 .68493 -2414.2 71.128)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="khs"
+       x1="605.12"
+       x2="607.64"
+       y1="747.4"
+       y2="792.64"
+       gradientTransform="matrix(.97742 0 0 1 -432.6 -100.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khr"
+       x1="664.45"
+       x2="686.28"
+       y1="707.91"
+       y2="809.73"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="khq"
+       x1="1126.4"
+       x2="1153.6"
+       y1="588.69"
+       y2="544.24"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="khp"
+       x1="33.17"
+       x2="778.3"
+       y1="402.96"
+       y2="209.29"
+       gradientTransform="matrix(.81951 0 0 1.0062 174.95 -1.9462)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kho"
+       x1="783.87"
+       x2="798.35"
+       y1="455.5"
+       y2="407.21"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdv"
+       cx="1223.7"
+       cy="528.83"
+       r="72.16"
+       gradientTransform="matrix(1.2389 0 0 .32168 -736.16 256)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khn"
+       x1="706.44"
+       x2="764.57"
+       y1="472.87"
+       y2="578.11"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kdu"
+       cx="802.1"
+       cy="454.04"
+       r="21.814"
+       gradientTransform="matrix(6.42 .15545 -.082508 3.4076 -4276.7 -1227.7)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kdt"
+       cx="742.27"
+       cy="468.43"
+       r="69.704"
+       gradientTransform="matrix(7.4242 0 0 2.0939 -4760 -528.42)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kds"
+       cx="758.47"
+       cy="435.28"
+       r="50.656"
+       gradientTransform="matrix(1.2889 0 0 .40869 -192.06 250.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdr"
+       cx="707.71"
+       cy="523.64"
+       r="27.625"
+       gradientTransform="matrix(3.0953 0 0 .65178 -1444.3 175.04)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kdq"
+       cx="754.71"
+       cy="483.9"
+       r="70.944"
+       gradientTransform="matrix(8.1616 4.234 -.58673 1.1588 -5131.8 -3261.8)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="khm"
+       x1="725.19"
+       x2="1203.6"
+       y1="818.79"
+       y2="706.88"
+       gradientTransform="matrix(.55406 0 0 1.357 60.876 -349.34)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khl"
+       x1="610.11"
+       x2="789.05"
+       y1="364.47"
+       y2="350.86"
+       gradientTransform="matrix(1 0 0 1.079 28.551 -35.292)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="khk"
+       x1="348.06"
+       x2="797.62"
+       y1="245.13"
+       y2="238.78"
+       gradientTransform="translate(-562.62 145)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdp"
+       cx="978.16"
+       cy="754.94"
+       r="8.1765"
+       gradientTransform="matrix(5.4939 1.4721 -1.2843 4.7932 -3853.4 -4400.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khj"
+       x1="148.58"
+       x2="148.58"
+       y1="467.1"
+       y2="489.53"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khi"
+       x1="61.17"
+       x2="171.52"
+       y1="388.26"
+       y2="561.35"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kdo"
+       cx="679.94"
+       cy="581.33"
+       r="46.875"
+       gradientTransform="matrix(1.3362 0 0 .21529 -677.15 350.24)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdn"
+       cx="862.89"
+       cy="567.65"
+       r="72.312"
+       gradientTransform="matrix(2.2169 0 0 .18826 -1527.7 367.02)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdm"
+       cx="861.92"
+       cy="406.59"
+       r="37.734"
+       gradientTransform="matrix(2.2694 -2.3007e-7 2.1921e-7 2.1622 -1046.6 -478.82)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khh"
+       x1="1345.8"
+       x2="1308.2"
+       y1="541.97"
+       y2="549.35"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khg"
+       x1="1369.2"
+       x2="1415.6"
+       y1="502.2"
+       y2="494.69"
+       gradientTransform="translate(25.155 -6.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="khf"
+       x1="660.46"
+       x2="634.84"
+       y1="578.31"
+       y2="390.18"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khe"
+       x1="677.69"
+       x2="650.54"
+       y1="469.35"
+       y2="480.46"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="khd"
+       x1="600.12"
+       x2="687.13"
+       y1="420.29"
+       y2="518.78"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="khc"
+       x1="1089.9"
+       x2="1127.5"
+       y1="540.34"
+       y2="510.62"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdl"
+       cx="875.71"
+       cy="404.17"
+       r="25.086"
+       gradientTransform="matrix(4.2645 0 0 5.7479 -2794 -1931.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="khb"
+       x1="734.84"
+       x2="732.47"
+       y1="402.18"
+       y2="272.18"
+       gradientTransform="translate(20.548 -11.133)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kdk"
+       cx="663.59"
+       cy="465.72"
+       r="137.98"
+       gradientTransform="matrix(3.9298 -.5842 .15349 .81233 -1986.7 468.04)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdj"
+       cx="893.62"
+       cy="399.04"
+       r="40.163"
+       gradientTransform="matrix(1.939 0 0 1.6255 -805.02 -254.99)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdi"
+       cx="1396.6"
+       cy="516.18"
+       r="21.873"
+       gradientTransform="matrix(1.7552 .47032 -.37545 1.4012 -1314.5 -976.16)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdh"
+       cx="1376"
+       cy="522.53"
+       r="10.703"
+       gradientTransform="matrix(4.6275 0 0 2.9605 -5443.2 -1135.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kha"
+       x1="1623.3"
+       x2="1337.6"
+       y1="707.23"
+       y2="453.98"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdg"
+       cx="930.86"
+       cy="494.89"
+       r="20.859"
+       gradientTransform="matrix(1.7789 0 0 .58395 -693.74 199.3)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdf"
+       cx="1509"
+       cy="351.83"
+       r="15.659"
+       gradientTransform="matrix(14.544 0 -3.0259e-8 7.1485 -21004 -2021.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kde"
+       cx="915"
+       cy="492.61"
+       r="17.344"
+       gradientTransform="matrix(2.854 0 0 .91277 -1659.1 44.997)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdd"
+       cx="918.15"
+       cy="507.21"
+       r="17.062"
+       gradientTransform="matrix(1.6601 0 0 .48193 -578.01 260.53)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kdc"
+       cx="921.72"
+       cy="445.73"
+       r="36.188"
+       gradientTransform="matrix(4.1316 0 0 .97938 -2863 .16545)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgz"
+       x1="584.49"
+       x2="767.59"
+       y1="410.99"
+       y2="479.68"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kdb"
+       cx="939.1"
+       cy="571.68"
+       r="7.2337"
+       gradientTransform="matrix(1 1.8341e-6 -1.3824e-5 7.5373 27.055 -3736.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgy"
+       x1="1061.1"
+       x2="1146.6"
+       y1="590.37"
+       y2="642.14"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kgx"
+       x1="1197.6"
+       x2="981.03"
+       y1="817.18"
+       y2="510.39"
+       gradientTransform="translate(24.593 -8.477)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kda"
+       cx="132.04"
+       cy="958.2"
+       r="158.14"
+       gradientTransform="matrix(2.7421 -.049922 .01565 .85962 -256.67 22.504)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcz"
+       cx="776.93"
+       cy="814.18"
+       r="38.283"
+       gradientTransform="matrix(5.4348 1.4562 -1.6171 6.035 -2453.3 -5463.4)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgw"
+       x1="686.97"
+       x2="679.91"
+       y1="815.13"
+       y2="945.12"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgv"
+       x1="120.47"
+       x2="545.5"
+       y1="843.34"
+       y2="850.97"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kgu"
+       x1="137.06"
+       x2="130.94"
+       y1="879.6"
+       y2="906.37"
+       gradientTransform="translate(-446.46 -100.77)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgt"
+       x1="101.48"
+       x2="46.436"
+       y1="877.68"
+       y2="906.75"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kgs"
+       x1="-266.75"
+       x2="39.442"
+       y1="614.69"
+       y2="735.49"
+       gradientTransform="translate(19.927 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgr"
+       x1="681.96"
+       x2="684.19"
+       y1="598.38"
+       y2="858.47"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kcy"
+       cx="560.75"
+       cy="721.98"
+       r="2.8072"
+       gradientTransform="matrix(1.8582 .49789 -1.0642 3.9716 313.67 -2430.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcx"
+       cx="-284"
+       cy="890.61"
+       r="40.313"
+       gradientTransform="matrix(15.935 4.2699 -1.1034 4.1181 4967.7 -1576)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcw"
+       cx="468.23"
+       cy="534.59"
+       r="188.52"
+       gradientTransform="matrix(7.0365 0 0 2.3087 -2798.7 -690.08)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgq"
+       x1="-490.84"
+       x2="5.0767"
+       y1="191.66"
+       y2="828.04"
+       gradientTransform="matrix(.96248 0 0 .96248 22.682 -275.09)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgp"
+       x1="-224.35"
+       x2="496.31"
+       y1="304.48"
+       y2="732.99"
+       gradientTransform="translate(27.048 -87.133)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kcv"
+       cx="1215.2"
+       cy="879.94"
+       r="14.666"
+       gradientTransform="matrix(8.5217 0 0 2.7863 -9579.3 -1682.6)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kgo"
+       x1="685.54"
+       x2="689.28"
+       y1="725.81"
+       y2="773.98"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kcu"
+       cx="1072.9"
+       cy="766.63"
+       r="32.066"
+       gradientTransform="matrix(1.3343 .77034 -2.3317 4.0385 987.23 -3260.3)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgn"
+       x1="1098.5"
+       x2="1101.3"
+       y1="746.43"
+       y2="754.65"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="kgm"
+       x1="564.38"
+       x2="553.82"
+       y1="741.85"
+       y2="705.97"
+       gradientTransform="matrix(.96109 0 0 .96109 48.85 21.017)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgl"
+       x1="281.39"
+       x2="353.63"
+       y1="346.72"
+       y2="363.72"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgk"
+       x1="912.28"
+       x2="1008.6"
+       y1="485.05"
+       y2="520.76"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kct"
+       cx="852.59"
+       cy="471.86"
+       r="5.8336"
+       gradientTransform="matrix(.84848 0 0 .84848 -312.02 -29.095)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgj"
+       x1="-444.85"
+       x2="472.68"
+       y1="512.19"
+       y2="380.82"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcs"
+       cx="1076.6"
+       cy="908.25"
+       r="11.219"
+       gradientTransform="matrix(1.8326 .49106 -.71744 2.6775 -690.22 -2153.6)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgi"
+       x1="1065.3"
+       x2="1068.5"
+       y1="834.79"
+       y2="854.93"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcr"
+       cx="1047.4"
+       cy="895.99"
+       r="19.813"
+       gradientTransform="matrix(6.2076 3.5839 -8.1031 14.035 1411.3 -15396)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcq"
+       cx="-320.42"
+       cy="591.81"
+       r="2.4499"
+       gradientTransform="matrix(3.2017 0 0 7.1471 730.84 -3645.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcp"
+       cx="-327.73"
+       cy="604.74"
+       r="2.4499"
+       gradientTransform="matrix(-.80614 1.3963 -.87273 -.50387 -20.113 1347.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kco"
+       cx="-327.73"
+       cy="604.74"
+       r="2.4499"
+       gradientTransform="matrix(-.75512 1.3079 -.81749 -.47198 -42.298 1304.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcn"
+       cx="-327.73"
+       cy="604.74"
+       r="2.4499"
+       gradientTransform="matrix(-.86346 1.4956 -.93478 -.5397 -19.772 1413.6)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgh"
+       x1="1643.6"
+       x2="1573.3"
+       y1="935.6"
+       y2="860.31"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcm"
+       cx="817.45"
+       cy="1091.8"
+       r="152.48"
+       gradientTransform="matrix(2.0069 -.18322 .015196 .16645 -860.27 786.83)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcl"
+       cx="682.65"
+       cy="1095.1"
+       r="171.06"
+       gradientTransform="matrix(2.1741 0 0 .24787 -888.25 540.85)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kck"
+       cx="1580.4"
+       cy="808.94"
+       r="9.75"
+       gradientTransform="matrix(3.9422 1.0563 -7.2622 27.103 750.77 -22834)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcj"
+       cx="1098.4"
+       cy="772.54"
+       r="9.6718"
+       gradientTransform="matrix(1.1256 .30159 -.23744 .88614 68.117 -253.58)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kci"
+       cx="1098.4"
+       cy="772.54"
+       r="9.6718"
+       gradientTransform="matrix(2.7954 .74903 -.58971 2.2008 -1498 -1744.6)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kch"
+       cx="1584.7"
+       cy="778.15"
+       r="19.608"
+       gradientTransform="matrix(1 0 0 4.2674 -446.72 -2618.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcg"
+       cx="755.66"
+       cy="768.84"
+       r="38.047"
+       gradientTransform="matrix(1.9418 0 0 .53827 -665.22 352.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kcf"
+       cx="1301.1"
+       cy="878.86"
+       r="192.92"
+       gradientTransform="matrix(5.2227 -1.3994 .13766 .51376 -5980.4 2106.4)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kce"
+       cx="1179"
+       cy="874.3"
+       r="15.006"
+       gradientTransform="matrix(5.1643 1.3838 -1.4711 5.4903 -4065.7 -5682.2)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kgg"
+       x1="674.15"
+       x2="726.06"
+       y1="894.8"
+       y2="771.47"
+       gradientTransform="translate(21.53 -7.9826)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgf"
+       x1="1174"
+       x2="1276.7"
+       y1="954.68"
+       y2="759.35"
+       gradientTransform="matrix(1.6176 0 0 1.6176 -1190.6 -647.05)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kcd"
+       cx="806.11"
+       cy="654.95"
+       r="112.22"
+       gradientTransform="matrix(5.3346 1.4294 -.23802 .88829 -3397.1 -993.04)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kge"
+       x1="1509.2"
+       x2="1682.4"
+       y1="880.75"
+       y2="879.13"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kcc"
+       cx="1592.3"
+       cy="788.46"
+       r="18.234"
+       gradientTransform="matrix(4.7148 0 0 22.115 -6313.6 -16584)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kcb"
+       cx="1107.1"
+       cy="697.65"
+       r="15.266"
+       gradientTransform="matrix(3.2277 1.8635 -.52454 .90852 -2063.3 -1970.3)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kca"
+       cx="327.97"
+       cy="557.52"
+       r="13.305"
+       gradientTransform="matrix(10.75 1.8226 -.74384 4.3871 -2910.9 -2512.2)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbz"
+       cx="313.45"
+       cy="619.71"
+       r="109.94"
+       gradientTransform="matrix(.33785 -.090525 .037867 .14132 197.94 535.64)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kby"
+       cx="796.37"
+       cy="688.6"
+       r="107.36"
+       gradientTransform="matrix(6.3199 -1.6934 .70601 2.6349 -5511.5 412.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kgd"
+       x1="1241.9"
+       x2="1251.5"
+       y1="526.77"
+       y2="532.15"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgc"
+       x1="1785.2"
+       x2="1707.9"
+       y1="622.81"
+       y2="639.31"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kgb"
+       x1="-321.54"
+       x2="-316.85"
+       y1="593.36"
+       y2="592.36"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kga"
+       x1="12.625"
+       x2="75.456"
+       y1="651.36"
+       y2="703.36"
+       gradientTransform="translate(-444.48 -102.45)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kfz"
+       x1="-363.87"
+       x2="-351.14"
+       y1="584.33"
+       y2="594.76"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kbx"
+       cx="149.74"
+       cy="685.76"
+       r="5.625"
+       gradientTransform="matrix(2.3423 1.3523 -4.0532 7.0203 2137.1 -4423.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbw"
+       cx="153.04"
+       cy="688.18"
+       r="9.6719"
+       gradientTransform="matrix(1.3792 .36955 -.51522 1.9228 -150.06 -794.41)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbv"
+       cx="327.97"
+       cy="557.52"
+       r="13.305"
+       gradientTransform="matrix(2.3906 0 0 .97564 -438.78 6.5997)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbu"
+       cx="766.86"
+       cy="685.58"
+       r="1.7678"
+       gradientTransform="matrix(1.35 0 0 1.35 -694.87 -350.33)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbt"
+       cx="766.86"
+       cy="685.58"
+       r="1.7678"
+       gradientTransform="matrix(1.45 0 0 1.45 -774.93 -415.51)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbs"
+       cx="766.86"
+       cy="685.58"
+       r="1.7678"
+       gradientTransform="matrix(1.25 0 0 1.25 -630.43 -270.15)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbr"
+       cx="766.86"
+       cy="685.58"
+       r="1.7678"
+       gradientTransform="matrix(1.3 0 0 1.3 -673.27 -304.43)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbq"
+       cx="280.82"
+       cy="589.37"
+       r="12.188"
+       gradientTransform="matrix(1.6525 .4428 -.69882 2.608 255.67 -1080.7)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbp"
+       cx="353.65"
+       cy="578.99"
+       r="19.906"
+       gradientTransform="matrix(.66447 0 0 .6024 91.628 230.21)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbo"
+       cx="221.21"
+       cy="612.98"
+       r="5.0026"
+       gradientTransform="matrix(2.7465 0 0 3.9437 -315.34 -1819.8)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbn"
+       cx="687.13"
+       cy="699.1"
+       r="5.6569"
+       gradientTransform="matrix(1 0 0 .60937 -443.85 170.38)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbm"
+       cx="690.84"
+       cy="709.22"
+       r="9.7227"
+       gradientTransform="matrix(1 0 0 .38636 -443.85 332.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbl"
+       cx="692.21"
+       cy="719.12"
+       r="10.297"
+       gradientTransform="matrix(1 0 0 .32189 -443.85 384.94)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbk"
+       cx="203.1"
+       cy="622.59"
+       r="4.672"
+       gradientTransform="translate(27.048 -7.1321)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbj"
+       cx="204.07"
+       cy="611.8"
+       r="4.672"
+       gradientTransform="translate(27.048 -7.1321)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbi"
+       cx="204.6"
+       cy="601.37"
+       r="4.672"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbh"
+       cx="205.13"
+       cy="590.41"
+       r="4.672"
+       gradientTransform="translate(27.048 -7.1321)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbg"
+       cx="185.6"
+       cy="596.95"
+       r="4.672"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbf"
+       cx="183.48"
+       cy="607.38"
+       r="4.672"
+       gradientTransform="translate(27.048 -7.1321)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbe"
+       cx="701.01"
+       cy="748.37"
+       r="64.315"
+       gradientTransform="matrix(2.739 0 0 .60205 -1675.3 180.85)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbd"
+       cx="183.48"
+       cy="618.61"
+       r="4.672"
+       gradientTransform="translate(27.048 -7.1321)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kbc"
+       cx="685.62"
+       cy="849.18"
+       r="107.33"
+       gradientTransform="matrix(2.1933 0 0 .62487 -1216.8 100.84)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfy"
+       x1="708.91"
+       x2="714.44"
+       y1="716.03"
+       y2="676.03"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfx"
+       x1="779.34"
+       x2="884.85"
+       y1="1133.7"
+       y2="-309.72"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kfw"
+       x1="635.02"
+       x2="635.02"
+       y1="955.19"
+       y2="916.07"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kfv"
+       x1="-291.46"
+       x2="-311.28"
+       y1="634.88"
+       y2="718.14"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kbb"
+       cx="108.05"
+       cy="742.85"
+       r="98.375"
+       gradientTransform="matrix(8.9835 3.31 -1.3596 3.69 -790.67 -2749.5)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kba"
+       cx="-227.26"
+       cy="574.45"
+       r="94.797"
+       gradientTransform="matrix(5.0097 0 0 2.7522 945.65 -969.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kaz"
+       cx="286.42"
+       cy="738.96"
+       r="166.8"
+       gradientTransform="matrix(1.894 0 0 .19077 -709.45 694.42)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kay"
+       cx="-154.59"
+       cy="693.84"
+       r="179.25"
+       gradientTransform="matrix(2.2844 0 0 .15572 225.61 578.67)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfu"
+       x1="492.47"
+       x2="517.22"
+       y1="907.5"
+       y2="904.03"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kax"
+       cx="-265.96"
+       cy="458.75"
+       r="94.797"
+       gradientTransform="matrix(1.7028 0 0 .93548 174.06 26.581)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kft"
+       x1="-358.42"
+       x2="-376.59"
+       y1="626.25"
+       y2="621.65"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfs"
+       x1="-361.15"
+       x2="-329.73"
+       y1="595"
+       y2="595"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kaw"
+       cx="207.94"
+       cy="719.02"
+       r="153.41"
+       gradientTransform="matrix(3.9631 0 0 2.1139 -1069.5 -901.43)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <radialGradient
+       id="kav"
+       cx="65.536"
+       cy="787.68"
+       r="3.2143"
+       gradientTransform="matrix(.88889 0 0 .88889 -435.6 -13.931)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kau"
+       cx="-344.4"
+       cy="748.75"
+       r="59.219"
+       gradientTransform="matrix(2.096 .017058 -.015757 1.9362 416.3 -702.2)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kat"
+       cx="160.14"
+       cy="788.78"
+       r="113.58"
+       gradientTransform="matrix(1.7866 0 0 .44614 -98.911 429.74)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfr"
+       x1="-259.75"
+       x2="270.31"
+       y1="621.44"
+       y2="821.49"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfq"
+       x1="1568.8"
+       x2="1551.6"
+       y1="574.34"
+       y2="628.84"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kfp"
+       x1="-173.8"
+       x2="311.1"
+       y1="575.37"
+       y2="761.17"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfo"
+       x1="256.87"
+       x2="41.719"
+       y1="638.68"
+       y2="918.2"
+       gradientTransform="matrix(1.0403 0 0 .93668 18.808 33.199)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kas"
+       cx="360.75"
+       cy="581.07"
+       r="131.08"
+       gradientTransform="matrix(2.7694 0 0 .6094 -662.54 231.76)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kfn"
+       x1="377.98"
+       x2="383.55"
+       y1="382.82"
+       y2="809.27"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kar"
+       cx="-367.83"
+       cy="677.95"
+       r="45.328"
+       gradientTransform="matrix(1.5629 0 0 .63948 234.09 237.29)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kaq"
+       cx="139.51"
+       cy="706.39"
+       r="154.83"
+       gradientTransform="matrix(3.1072 0 0 .48823 -327.9 339.06)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfm"
+       x1="124.29"
+       x2="133.29"
+       y1="717.61"
+       y2="814.14"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kap"
+       cx="-115"
+       cy="928.17"
+       r="141.75"
+       gradientTransform="matrix(1.9829 0 0 .17328 147.02 655.24)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kao"
+       cx="-245.99"
+       cy="795.94"
+       r="6.2031"
+       gradientTransform="matrix(4.7725 1.2788 -1.5333 5.7222 2187.4 -3434.4)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kan"
+       cx="-342.95"
+       cy="797.75"
+       r="67.672"
+       gradientTransform="matrix(1.2152 0 0 .71719 100.87 218.48)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kam"
+       cx="1056.4"
+       cy="471.07"
+       r="73.699"
+       gradientTransform="matrix(1.4879 0 0 .47891 -491.3 186.28)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfl"
+       x1="393.85"
+       x2="124.51"
+       y1="378.58"
+       y2="391.98"
+       gradientTransform="matrix(.98426 0 0 1 42.534 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kal"
+       cx="386.66"
+       cy="445.99"
+       r="77.068"
+       gradientTransform="matrix(1.4635 0 0 1.3221 -142.63 -149.83)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kak"
+       cx="595.95"
+       cy="345.66"
+       r="28.91"
+       gradientTransform="matrix(1.8656 .023962 -.0010496 .08172 -487.96 295.15)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kaj"
+       cx="466.59"
+       cy="653.24"
+       r="10.896"
+       gradientTransform="matrix(4.2617 0 1.3143e-8 2.0946 -1484.7 -731.59)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="kfk"
+       x1="-465.27"
+       x2="-374.5"
+       y1="658.38"
+       y2="674.09"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kai"
+       cx="415.32"
+       cy="744.49"
+       r="189.12"
+       gradientTransform="matrix(8.9811 0 0 5.3572 -2969.3 -3030.6)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kah"
+       cx="333.04"
+       cy="572.09"
+       r="95.543"
+       gradientTransform="matrix(1.5152 0 0 .7343 -142.53 155.11)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kag"
+       cx="382.69"
+       cy="575.65"
+       r="131"
+       gradientTransform="matrix(2.0927 0 0 .45079 -398.73 328.46)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kaf"
+       cx="892.46"
+       cy="633.17"
+       r="200.75"
+       gradientTransform="matrix(3.2748 0 0 1.9505 -2025.9 -593.54)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kfj"
+       x1="631.1"
+       x2="602.49"
+       y1="727.38"
+       y2="728.89"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfi"
+       x1="1238.8"
+       x2="1260.5"
+       y1="615.99"
+       y2="615.99"
+       gradientTransform="translate(-562.62 143)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <linearGradient
+       id="kfh"
+       x1="884.79"
+       x2="897.16"
+       y1="492.02"
+       y2="531.12"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfg"
+       x1="859.86"
+       x2="921.41"
+       y1="278.91"
+       y2="525.43"
+       gradientTransform="translate(16.299 -5.4612)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kae"
+       cx="1121"
+       cy="636.16"
+       r="253.17"
+       gradientTransform="matrix(2.2608 -3.9158 1.073 .61948 -2488.7 4783.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kff"
+       x1="651.04"
+       x2="1204.1"
+       y1="741.55"
+       y2="517.29"
+       gradientTransform="translate(31.262 -7.7113)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfe"
+       x1="1122.9"
+       x2="880.37"
+       y1="1219.6"
+       y2="556.49"
+       gradientTransform="matrix(1.0615 0 0 1 -28.845 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <linearGradient
+       id="kfd"
+       x1="1686.6"
+       x2="147.49"
+       y1="1139.6"
+       y2="248.67"
+       gradientTransform="translate(27.048 -7.1327)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kad"
+       cx="-279.14"
+       cy="-12.689"
+       r="177.69"
+       gradientTransform="matrix(4.4056 0 0 1.4762 830.97 155.24)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="kac"
+       cx="-171.45"
+       cy="701.87"
+       r="166.46"
+       gradientTransform="matrix(9.3693 -3.9281 2.2869 5.4547 -226.71 -3185.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kab"
+       cx="-77.612"
+       cy="713.85"
+       r="140.69"
+       gradientTransform="matrix(2.7225 .72948 -.55367 2.0663 767.51 -468.02)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kfc"
+       x1="-119.02"
+       x2="262.58"
+       y1="1004.3"
+       y2="838.53"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kaa"
+       cx="139.61"
+       cy="866.94"
+       r="27.4"
+       gradientTransform="matrix(3.0379 -.814 .38794 1.4478 -1084 -365.92)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kz"
+       cx="-115.8"
+       cy="478.21"
+       r="128.5"
+       gradientTransform="matrix(2.0064 .06628 -.02644 .80035 151.43 344.51)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="ky"
+       cx="-177.85"
+       cy="977.88"
+       r="214.41"
+       gradientTransform="matrix(4.3979 0 0 .83815 659.46 .76065)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kx"
+       cx="1035.4"
+       cy="552.89"
+       r="86.969"
+       gradientTransform="matrix(9.2809 0 0 5.6692 -9000.3 -2171.9)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kw"
+       cx="114.66"
+       cy="571.17"
+       r="245.66"
+       gradientTransform="matrix(1.7264 .45359 -.18631 .70912 -117.25 157.61)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc" />
+    <linearGradient
+       id="kfb"
+       x1="823.22"
+       x2="949.51"
+       y1="37.748"
+       y2="329.13"
+       gradientTransform="translate(-562.62 143)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kv"
+       cx="1320.3"
+       cy="877.43"
+       r="234.15"
+       gradientTransform="matrix(4.9329 1.8927 -.72379 1.8864 -5070.3 -3368.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="ku"
+       cx="271.41"
+       cy="689.22"
+       r="117.37"
+       gradientTransform="matrix(5.6946 0 0 2.3682 -1247.1 -1005.7)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kt"
+       cx="325.79"
+       cy="620.4"
+       r="262.39"
+       gradientTransform="matrix(1.8649 0 0 .78641 28.793 163.82)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kfa"
+       x1="107.81"
+       x2="57.75"
+       y1="872.69"
+       y2="955.19"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="ks"
+       cx="849.39"
+       cy="881.55"
+       r="133.56"
+       gradientTransform="matrix(9.4058 0 0 6.0543 -7553 -4311.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kr"
+       cx="106.67"
+       cy="780.28"
+       r="48.892"
+       gradientTransform="matrix(3.5739 0 0 1.8536 -718.42 -768.72)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kq"
+       cx="1586.2"
+       cy="713.5"
+       r="57.054"
+       gradientTransform="matrix(6.5351 0 0 9.9222 -9315 -6106.9)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kp"
+       cx="1730.2"
+       cy="796.86"
+       r="141.57"
+       gradientTransform="matrix(4.8993 1.9476 -.76921 1.9349 -6382.2 -4079.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="ko"
+       cx="761.34"
+       cy="377.86"
+       r="98.062"
+       gradientTransform="matrix(2.311 0 0 .25824 -937.97 255.56)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kn"
+       cx="937.92"
+       cy="1165.8"
+       r="838.7"
+       gradientTransform="matrix(.57603 0 0 .18605 -184.78 524.95)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="km"
+       cx="1700.8"
+       cy="817.85"
+       r="19.298"
+       gradientTransform="matrix(3.8092 1.0207 -2.31 8.6212 -3322.1 -8033.6)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kl"
+       cx="1199.2"
+       cy="670.81"
+       r="49.803"
+       gradientTransform="matrix(1.3523 0 0 3.4104 -394.03 -1609.7)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kk"
+       cx="1194.8"
+       cy="667.27"
+       r="60.822"
+       gradientTransform="matrix(1.1562 0 0 2.7759 -159.81 -1188.6)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kd" />
+    <radialGradient
+       id="kj"
+       cx="1193.4"
+       cy="675.42"
+       r="101.86"
+       gradientTransform="matrix(1.237 0 0 1.8454 -247.57 -580.43)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kd" />
+    <radialGradient
+       id="ki"
+       cx="581.24"
+       cy="719.53"
+       r="83.016"
+       gradientTransform="matrix(.72693 0 0 1.4735 185.76 -347.82)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kd"
+       spreadMethod="reflect" />
+    <linearGradient
+       id="kez"
+       x1="466.47"
+       x2="590.1"
+       y1="672.03"
+       y2="757.42"
+       gradientTransform="matrix(1.0806 0 0 1.0353 -27.728 -35.221)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#ka" />
+    <radialGradient
+       id="kh"
+       cx="534.6"
+       cy="726.18"
+       r="113.09"
+       gradientTransform="matrix(1.0174 0 0 1.488 20.869 -358.25)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kd" />
+    <linearGradient
+       id="key"
+       x1="378.58"
+       x2="396.2"
+       y1="550.6"
+       y2="534.44"
+       gradientTransform="translate(-443.85 -102.71)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kg"
+       cx="416.8"
+       cy="552.73"
+       r="22.812"
+       gradientTransform="matrix(4.1833 1.1209 -.58349 2.1776 -1444.2 -1226.4)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="kf"
+       cx="442.64"
+       cy="823.26"
+       r="922.96"
+       gradientTransform="matrix(1.8494 -.082344 .004589 .10307 -354.17 771.76)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kc"
+       spreadMethod="reflect" />
+    <radialGradient
+       id="ke"
+       cx="378.62"
+       cy="535.83"
+       r="37.118"
+       gradientTransform="matrix(8.5113 .21168 -.095873 3.8549 -3253.7 -1710.2)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb" />
+    <radialGradient
+       id="ks-926"
+       cx="849.39"
+       cy="881.55"
+       r="133.56"
+       gradientTransform="matrix(9.4058 0 0 6.0543 -7553 -4311.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb-116" />
+    <linearGradient
+       id="kb-116">
+      <stop
+         stop-color="#120006"
+         offset="0"
+         id="stop2320" />
+      <stop
+         stop-color="#a91c00"
+         offset=".5"
+         id="stop2322" />
+      <stop
+         stop-color="#f83a00"
+         offset="1"
+         id="stop2324" />
+    </linearGradient>
+    <radialGradient
+       id="ks-926-690"
+       cx="849.39"
+       cy="881.55"
+       r="133.56"
+       gradientTransform="matrix(9.4058 0 0 6.0543 -7553 -4311.1)"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#kb-116-430" />
+    <linearGradient
+       id="kb-116-430">
+      <stop
+         stop-color="#000006"
+         offset="0"
+         id="stop3796" />
+      <stop
+         stop-color="#001c00"
+         offset=".5"
+         id="stop3798" />
+      <stop
+         stop-color="#003a00"
+         offset="1"
+         id="stop3800" />
+    </linearGradient>
+  </defs>
+</svg>
