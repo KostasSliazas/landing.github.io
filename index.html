@@ -24,24 +24,24 @@
   <div class="wraper">
     <input type="checkbox" id="themesw" class="theme thm">
     <label for="themesw" id="theme" class="theme">theme</label>
-    <a href="#main" class="theme top">Top</a>
+    <a href="#main" class="theme top" tabindex="-1">Top</a>
     <header class="bg">
       <div class="header">
-        <a href="/"><span class="logo">burundukas.lt</span></a>
+        <a href="/" tabindex="-1"><span class="logo">burundukas.lt</span></a>
       </div>
     </header>
     <div class="navwrap">
       <div class="menu">
         <nav>
-          <a href="/" aria-label="logo" id="logo"><span class="icon icon-logok"><span class="path1"></span><span
+          <a href="/" aria-label="logo" id="logo" tabindex="-1"><span class="icon icon-logok"><span class="path1"></span><span
                 class="path2"></span></span></a>
-          <a class="bur" id="kmen" role="button">
+          <a class="bur" aria-haspopup="true" aria-controls="menus" aria-expanded="false" id="kmen" role="button">
             <i></i>
             <i></i>
             <i></i>
             <i></i>
           </a>
-          <ul class="exp hid nav">
+          <ul id="menus" aria-labelledby="bur" class="exp hid nav" tabindex="-1">
             <li>
               <a href="#download">Downloads</a>
             </li>
@@ -210,7 +210,7 @@
         </div>
         <div id="footer">
           <div class="wrap">
-            <span class="class10">&copy;2020. All rights reversed. By ]{</span>
+            <span class="class10">&copy;2010-<?php echo date("Y"); ?>. All rights reserved. By ]{</span>
             <p><a target="_blank" rel="noopener" href="http://www.hey.lt/details.php?id=burundukaslt"><img width="88"
                   height="31" src="https://www.hey.lt/count.php?id=burundukaslt"
                   alt="Hey.lt - Nemokamas lankytojų skaitliukas"></a>
