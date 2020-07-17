@@ -19,9 +19,9 @@
             "purpose": "any maskable"
         }
     ],
-    "start_url": "/",
+    "start_url": "index.html",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "fullscreen",
-    "scope": "/"
+    "scope": "landing.github.io/"
 }
