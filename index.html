@@ -35,14 +35,14 @@
         <nav>
           <a href="/" aria-label="logo" id="logo" tabindex="-1"><span class="icon icon-logok"><span
                 class="path1"></span><span class="path2"></span></span></a>
-          <button type="button" class="bur" aria-haspopup="true" aria-controls="menus" aria-expanded="false" id="kmen"
+          <a class="bur" aria-haspopup="true" aria-controls="menus" aria-expanded="false" id="kmen"
             role="button">
             <i></i>
             <i></i>
             <i></i>
             <i></i>
-          </button>
-          <ul id="menus" aria-labelledby="bur" class="exp hid nav" tabindex="-1">
+          </a>
+          <ul id="menus" class="exp hid nav" tabindex="-1">
             <li>
               <a href="#download">Downloads</a>
             </li>
@@ -212,7 +212,7 @@
         </div>
         <div id="footer">
           <div class="wrap">
-            <span class="class10">&copy;2010-<?php echo date("Y"); ?>. All rights reserved. By ]{</span>
+            <span class="class10">&copy;2020. All rights reversed. By ]{</span>
             <p><a target="_blank" rel="noopener" href="http://www.hey.lt/details.php?id=burundukaslt"><img width="88"
                   height="31" src="https://www.hey.lt/count.php?id=burundukaslt"
                   alt="Hey.lt - Nemokamas lankytojų skaitliukas"></a>
@@ -237,7 +237,7 @@
   <script>
       let deferredPrompt;
       const addBtn = document.getElementById('add-button');
-      addBtn.style.display = 'none';
+      // addBtn.style.display = 'none';
 
       window.addEventListener('beforeinstallprompt', (e) => {
         e.preventDefault();
