@@ -19,9 +19,9 @@
             "purpose": "any maskable"
         }
     ],
-    "start_url": "/",
+    "start_url": "https://kostassliazas.github.io/landing.github.io",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "fullscreen",
-    "scope": "https://kostassliazas.github.io/landing.github.io/"
+    "scope": "/"
 }
