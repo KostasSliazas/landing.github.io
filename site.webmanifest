@@ -19,7 +19,7 @@
             "purpose": "any maskable"
         }
     ],
-    "start_url": "https://kostassliazas.github.io/landing.github.io/index.html",
+    "start_url": "index.html",
     "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "fullscreen",
