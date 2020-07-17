@@ -234,8 +234,19 @@
   <script defer src="js/script.min.js"></script>
   <script defer src="js/imgs.min.js"></script>
   <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('service-worker.js').then(function (registration) {
+          // Registration was successful
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }, function (err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
+        });
+      });
+    }
     let deferredPrompt;
-    const addBtn = document.getElementById('add-button');
+    let addBtn = document.getElementById('add-button');
     addBtn.style.display = 'none';
 
     window.addEventListener('beforeinstallprompt', (e) => {
@@ -261,17 +272,6 @@
     window.addEventListener('appinstalled', (evt) => {
       console.log('a2hs installed');
     });
-    if ('serviceWorker' in navigator) {
-      window.addEventListener('load', function () {
-        navigator.serviceWorker.register('service-worker.js').then(function (registration) {
-          // Registration was successful
-          console.log('ServiceWorker registration successful with scope: ', registration.scope);
-        }, function (err) {
-          // registration failed :(
-          console.log('ServiceWorker registration failed: ', err);
-        });
-      });
-    }
   </script>
 
 </body>
