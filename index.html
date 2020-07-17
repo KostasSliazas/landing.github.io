@@ -218,7 +218,7 @@
                   alt="Hey.lt - Nemokamas lankytojų skaitliukas"></a>
             </p>
           </div>
-        </div><button id="add-button">Add to home screen</button>
+        </div><button id="add-button" class="btnsd">Add to home screen</button>
       </div>
     </div>
   </div>
@@ -235,14 +235,15 @@
   <script defer src="js/script.min.js"></script>
   <script defer src="js/imgs.min.js"></script>
   <script>
-    let deferredPrompt;
-    const addBtn = document.getElementById('add-button');
-    addBtn.style.display = 'none';
+      let deferredPrompt;
+      const addBtn = document.getElementById('add-button');
+      addBtn.style.display = 'none';
 
-    window.addEventListener('beforeinstallprompt', (e) => {
-      e.preventDefault();
-      deferredPrompt = e;
-      addBtn.style.display = 'block';
+      window.addEventListener('beforeinstallprompt', (e) => {
+        e.preventDefault();
+        deferredPrompt = e;
+        addBtn.style.display = 'block';
+      });
 
       addBtn.addEventListener('click', (e) => {
         addBtn.style.display = 'none';
@@ -259,7 +260,6 @@
       window.addEventListener('appinstalled', (evt) => {
         console.log('a2hs installed');
       });
-    });
   </script>
 
 </body>
