@@ -35,8 +35,7 @@
         <nav>
           <a href="/" aria-label="logo" id="logo" tabindex="-1"><span class="icon icon-logok"><span
                 class="path1"></span><span class="path2"></span></span></a>
-          <a class="bur" aria-haspopup="true" aria-controls="menus" aria-expanded="false" id="kmen"
-            role="button">
+          <a class="bur" aria-haspopup="true" aria-controls="menus" aria-expanded="false" id="kmen" role="button">
             <i></i>
             <i></i>
             <i></i>
@@ -235,42 +234,44 @@
   <script defer src="js/script.min.js"></script>
   <script defer src="js/imgs.min.js"></script>
   <script>
-      let deferredPrompt;
-      const addBtn = document.getElementById('add-button');
+    let deferredPrompt;
+    const addBtn = document.getElementById('add-button');
+    addBtn.style.display = 'none';
+
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault();
+      deferredPrompt = e;
+      addBtn.style.display = 'block';
+    });
+
+    addBtn.addEventListener('click', (e) => {
       addBtn.style.display = 'none';
-
-      window.addEventListener('beforeinstallprompt', (e) => {
-        e.preventDefault();
-        deferredPrompt = e;
-        addBtn.style.display = 'block';
-      });
-
-      addBtn.addEventListener('click', (e) => {
-        addBtn.style.display = 'none';
+      if (deferredPrompt) {
         deferredPrompt.prompt();
-        deferredPrompt.userChoice.then((choiceResult) => {
-          if (choiceResult.outcome === 'accepted') {
-            console.log('User accepted the A2HS prompt');
-          } else {
-            console.log('User dismissed the A2HS prompt');
-          }
-          deferredPrompt = null;
+      }
+      deferredPrompt.userChoice.then((choiceResult) => {
+        if (choiceResult.outcome === 'accepted') {
+          console.log('User accepted the A2HS prompt');
+        } else {
+          console.log('User dismissed the A2HS prompt');
+        }
+        deferredPrompt = null;
+      });
+    });
+    window.addEventListener('appinstalled', (evt) => {
+      console.log('a2hs installed');
+    });
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', function () {
+        navigator.serviceWorker.register('service-worker.js').then(function (registration) {
+          // Registration was successful
+          console.log('ServiceWorker registration successful with scope: ', registration.scope);
+        }, function (err) {
+          // registration failed :(
+          console.log('ServiceWorker registration failed: ', err);
         });
       });
-      window.addEventListener('appinstalled', (evt) => {
-        console.log('a2hs installed');
-      });
-      if ('serviceWorker' in navigator) {
-          window.addEventListener('load', function () {
-            navigator.serviceWorker.register('service-worker.js').then(function (registration) {
-              // Registration was successful
-              console.log('ServiceWorker registration successful with scope: ', registration.scope);
-            }, function (err) {
-              // registration failed :(
-              console.log('ServiceWorker registration failed: ', err);
-            });
-          });
-        }
+    }
   </script>
 
 </body>
