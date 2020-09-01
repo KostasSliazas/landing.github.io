@@ -6,7 +6,10 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0, user-scalable=yes" />
   <meta name="Description" content="by Kostas Sliazas">
   <title>burundukas.lt</title>
-  <link rel="stylesheet" href="css/css.min.css?v=1" />
+  <link rel="preload" href="css/css.min.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+  <noscript>
+    <link rel="stylesheet" href="css/css.min.css">
+  </noscript>
   <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png" />
   <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png" />
   <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png" />
@@ -218,7 +221,7 @@
         </div>
         <div id="footer">
           <div class="wrap">
-            <span class="class10">&copy;2020. All rights reversed. By ]{</span>
+            <span class="class10">&copy;2020. All rights reserved. By ]{</span>
             <p><a target="_blank" rel="noopener" href="http://www.hey.lt/details.php?id=burundukaslt"><img width="88"
                   height="31" src="https://www.hey.lt/count.php?id=burundukaslt"
                   alt="Hey.lt - Nemokamas lankytojų skaitliukas"></a>
