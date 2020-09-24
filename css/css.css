@@ -268,7 +268,6 @@ a:hover {
 
 #imgShow img,
 .paveik span {
-  background: #eee;
   position: relative;
   display: block
 }
@@ -458,8 +457,6 @@ a:hover {
 }
 
 .paveik span {
-  align-items: center;
-  justify-content: center;
   font-size: 1em;
   counter-increment: counter;
   border-radius: 2px;
@@ -506,7 +503,6 @@ a:hover {
 .imgDiv img {
   display: block;
   cursor: pointer;
-  background-color: #eee;
   text-align: center;
   filter: grayscale(1);
   transition: 0.2s .4s linear
@@ -740,6 +736,7 @@ nav {
 
 .menu {
   background: #f3f3f3;
+  padding: 0 24px;
   text-align: right;
   background: linear-gradient(135deg, #eee 34px, #f3f3f3 34px, #f3f3f3 52px, #eee 52px, #eee 70px, #f3f3f3 70px, #f3f3f3 88px, #eee 88px, #eee 106px, #f3f3f3 106px, #f3f3f3 124px, #eee 124px, #eee 142px, #f3f3f3 142px)
 }
@@ -863,7 +860,7 @@ ul {
 }
 
 @media only screen and (max-width:481px) {
-
+.menu,
   #leftcolumn,
   #main,
   #rightcolumn,
@@ -992,8 +989,8 @@ ul {
   src: url(../fonts/kosicos.eot?lp5vt);
   src: url(../fonts/kosicos.eot?lp5vt#iefix) format("embedded-opentype"), url(../fonts/kosicos.ttf?lp5vt) format("truetype"), url(../fonts/kosicos.woff?lp5vt) format("woff"), url(../fonts/kosicos.svg?lp5vt#kosicos) format("svg");
   font-weight: 400;
+  font-style: normal;
   font-display: swap;
-  font-style: normal
 }
 
 [class*=" icon-"],
@@ -1244,12 +1241,12 @@ ul {
 #themesw:checked~.navwrap a,
 #themesw:checked~.wrp .box,
 #themesw:checked~.wrp a {
-  color: #eee
+  color: #999
 }
 
 #themesw:checked~.wrp .allcontainer,
 #themesw:checked~.wrp .paveik span {
-  box-shadow: 0 0 0 2px #111
+  box-shadow: 0 0 0 2px #000
 }
 
 #themesw:checked~.bg,
@@ -1321,12 +1318,12 @@ ul {
 
   .wrp .box,
   .wrp a {
-    color: #aaa
+    color: #777
   }
 
   .wrp .allcontainer,
   .wrp .paveik span {
-    box-shadow: 0 0 0 2px #111
+    box-shadow: 0 0 0 2px #000
   }
 
   .bg,
@@ -1399,7 +1396,7 @@ ul {
 
   #themesw:checked~.navwrap a {
     text-shadow: none;
-    color: #777;
+    color: #999;
   }
 
   #themesw:checked~.navwrap .menu {
