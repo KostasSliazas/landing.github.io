@@ -1402,6 +1402,7 @@ ul {
 
   #themesw:checked~.navwrap .nav a {
     background: linear-gradient(#fff 0 48px) no-repeat center/100% 0;
+    color: #333;
   }
 
   #themesw:checked~.navwrap .menu,
