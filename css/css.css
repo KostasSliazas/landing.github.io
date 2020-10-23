@@ -514,6 +514,7 @@ a:hover {
   cursor: pointer;
   text-align: center;
   filter: grayscale(1);
+  background: #aaa1;
   transition: 0.2s .4s linear
 }
 
@@ -1366,9 +1367,17 @@ ul {
     color: #eee;
   }
 
+  .exp [role="button"]::after {
+    border-right: 1px solid currentColor;
+    border-bottom: 1px solid currentColor;
+  }
+  #themesw:checked~.exp [role="button"]::after {
+    border-right: 1px solid currentColor;
+    border-bottom: 1px solid currentColor;
+  }
   #themesw:checked~.navwrap .exp li ul,
   #themesw:checked~.wrp {
-    background-color: #fff
+    background-color: #f3f3f3
   }
 
   #themesw:checked~.theme,
