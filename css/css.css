@@ -99,11 +99,19 @@ ul {
   vertical-align: bottom;
   outline: 0
 }
-
+html {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  -webkit-font-variant-ligatures: none;
+  -webkit-text-size-adjust: 100%;
+  text-rendering: optimizeLegibility;
+  font-variant-ligatures: none;
+  text-shadow: rgba(0, 0, 0, 0.05) 0 0 1px;
+}
 body {
   margin: 0;
   overflow-x: hidden;
-  font: 16px/1.5em K2D, Arial, Geneva, Tahoma, sans-serif;
+  font: 16px/1.5em 'Jura', Arial, Geneva, Tahoma, sans-serif;
   -webkit-tap-highlight-color: transparent;
   -moz-tap-highlight-color: transparent;
   -webkit-touch-callout: none;
@@ -578,6 +586,7 @@ header {
 .header a {
   text-decoration: none;
   right: 0;
+  font-family: 'Goldman', cursive;
   letter-spacing: .15em;
   text-shadow: -1px -1px 0 #f7f7f7, -2px -2px 2px #eee, 1px 1px 0 #f7f7f7, 2px 2px 2px #aaa;
   color: #777
