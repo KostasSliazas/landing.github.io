@@ -686,6 +686,10 @@ h1:after {
   width: 100%;
   display: block;
   position: relative;
+  column-gap: 1em;
+  columns: 2;
+  padding: 1em 0;
+  background: #eeeeee80;
   clear: both
 }
 
@@ -1447,7 +1451,7 @@ ul {
   box-shadow: inset 0 1px 0 0 #fff;
   background: linear-gradient(to bottom, #fdfdfd 5%, #cacaca 100%);
   background-color: #737373;
-  border-radius: 6px;
+  border-radius: 3px;
   border: 1px solid #bfbfbf;
   display: inline-block;
   cursor: pointer;
