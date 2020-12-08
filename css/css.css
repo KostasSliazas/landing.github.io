@@ -801,6 +801,7 @@ nav ul {
   padding: 0 24px;
   text-align: left;
   display: block;
+  font-weight: 700;
   transition: background-size .1s .07s steps(9);
   transform: translateZ(0)
 }
