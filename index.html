@@ -36,8 +36,8 @@
     <div class="navwrap">
       <div class="menu">
         <nav>
-          <a href="/landing.github.io" rel="noopener noreferrer" aria-label="logo" id="logo" tabindex="-1"><span class="icon icon-logok"><span
-                class="path1"></span><span class="path2"></span></span></a>
+          <a href="/landing.github.io" rel="noopener noreferrer" aria-label="logo" id="logo" tabindex="-1"><span
+              class="icon icon-logok"><span class="path1"></span><span class="path2"></span></span></a>
           <a class="bur" aria-haspopup="true" aria-controls="menus" aria-expanded="false" id="kmen" role="button">
             <i></i>
             <i></i>
@@ -45,6 +45,9 @@
             <i></i>
           </a>
           <ul id="menus" class="exp hid nav" tabindex="-1">
+            <li>
+              <a href="#about">About</a>
+            </li>
             <li>
               <a href="#download">Downloads</a>
             </li>
@@ -112,20 +115,25 @@
             <h1><span class="icon-prop"></span>Web Tools</h1>
             <p><a href="https://kostassliazas.github.io/colorzebra.github.io/" target="_blank"
                 rel="noopener noreferrer">COLORZEBRA</a></p>
-            <p><a href="https://kostassliazas.github.io/gradients.github.io" target="_blank" rel="noopener noreferrer">2 colors
+            <p><a href="https://kostassliazas.github.io/gradients.github.io" target="_blank" rel="noopener noreferrer">2
+                colors
                 gradient</a></p>
             <p><a href="https://kostassliazas.github.io/gradient-generator-2.github.io/" target="_blank"
                 rel="noopener noreferrer">gradients</a></p>
-            <p><a href="https://europass-maker-offline.now.sh/" target="_blank" rel="noopener noreferrer">cv-maker</a></p>
-            <p><a href="https://kostassliazas.github.io/links-webpage/" target="_blank" rel="noopener noreferrer">links-webpage</a>
+            <p><a href="https://europass-maker-offline.now.sh/" target="_blank" rel="noopener noreferrer">cv-maker</a>
             </p>
-            <p><a href="https://kostassliazas.github.io/kcolorandom/" target="_blank" rel="noopener noreferrer">Color palettes</a>
+            <p><a href="https://kostassliazas.github.io/links-webpage/" target="_blank"
+                rel="noopener noreferrer">links-webpage</a>
+            </p>
+            <p><a href="https://kostassliazas.github.io/kcolorandom/" target="_blank" rel="noopener noreferrer">Color
+                palettes</a>
             </p>
             <p><a href="https://kostassliazas.github.io/drunktextmaker.github.io/" target="_blank"
                 rel="noopener noreferrer">drunktextmaker</a></p>
             <p><a href="https://kostassliazas.github.io/text-shadow.github.io/" target="_blank"
                 rel="noopener noreferrer">text-shadow</a></p>
-            <p><a href="https://kostassliazas.github.io/free-vectors.github.io/" target="_blank" rel="noopener noreferrer">Free
+            <p><a href="https://kostassliazas.github.io/free-vectors.github.io/" target="_blank"
+                rel="noopener noreferrer">Free
                 vectors</a></p>
           </div>
 
@@ -138,8 +146,8 @@
             <p><a href="https://dl.dropboxusercontent.com/s/iuj6x574vuzi8vr/SVG.zip?dl=0" rel="noopener noreferrer"
                 target="_blank">Free 77
                 vectors(*.svg)</a></p>
-            <p><a href="https://www.dl.dropboxusercontent.com/s/zd2nld9u60f92xk/LINKS.zip?dl=0" rel="noopener noreferrer"
-                target="_blank">Local links</a></p>
+            <p><a href="https://www.dl.dropboxusercontent.com/s/zd2nld9u60f92xk/LINKS.zip?dl=0"
+                rel="noopener noreferrer" target="_blank">Local links</a></p>
           </div>
           <div class="box" id="contacts">
             <h1><span class="icon-mail"></span>Contacts</h1>
@@ -166,7 +174,7 @@
               <div class="loader"></div>
             </div>
           </div>
-          <div class="box clearfix" id="about_me">
+          <div class="box clearfix" id="about">
             <h1><span class="icon-pers"></span>About</h1>
             <!-- <img height="200" width="200" src="img/header.svg" alt="10" class="imground"/> -->
             <p>This page is made by typing some letters and other symbols.</p>
@@ -179,8 +187,8 @@
         <div id="footer">
           <div class="wrap">
             <span class="class10">&copy;2020. All rights reserved. By ]{</span>
-            <p><a target="_blank" rel="noopener noreferrer" href="http://www.hey.lt/details.php?id=burundukaslt"><img width="88"
-                  height="31" src="https://www.hey.lt/count.php?id=burundukaslt"
+            <p><a target="_blank" rel="noopener noreferrer" href="http://www.hey.lt/details.php?id=burundukaslt"><img
+                  width="88" height="31" src="https://www.hey.lt/count.php?id=burundukaslt"
                   alt="Hey.lt - Nemokamas lankytojų skaitliukas"></a>
             </p>
           </div>
@@ -213,33 +221,33 @@
     //     });
     //   });
     // }
-    let deferredPrompt;
-    let addBtn = document.getElementById('add-button');
-    addBtn.style.display = 'none';
+    // let deferredPrompt;
+    // let addBtn = document.getElementById('add-button');
+    // addBtn.style.display = 'none';
 
-    window.addEventListener('beforeinstallprompt', (e) => {
-      e.preventDefault();
-      deferredPrompt = e;
-      addBtn.style.display = 'block';
-    });
+    // window.addEventListener('beforeinstallprompt', (e) => {
+    //   e.preventDefault();
+    //   deferredPrompt = e;
+    //   addBtn.style.display = 'block';
+    // });
 
-    addBtn.addEventListener('click', (e) => {
-      addBtn.style.display = 'none';
-      if (deferredPrompt) {
-        deferredPrompt.prompt();
-      }
-      deferredPrompt.userChoice.then((choiceResult) => {
-        if (choiceResult.outcome === 'accepted') {
-          console.log('User accepted the A2HS prompt');
-        } else {
-          console.log('User dismissed the A2HS prompt');
-        }
-        deferredPrompt = null;
-      });
-    });
-    window.addEventListener('appinstalled', (evt) => {
-      console.log('a2hs installed');
-    });
+    // addBtn.addEventListener('click', (e) => {
+    //   addBtn.style.display = 'none';
+    //   if (deferredPrompt) {
+    //     deferredPrompt.prompt();
+    //   }
+    //   deferredPrompt.userChoice.then((choiceResult) => {
+    //     if (choiceResult.outcome === 'accepted') {
+    //       console.log('User accepted the A2HS prompt');
+    //     } else {
+    //       console.log('User dismissed the A2HS prompt');
+    //     }
+    //     deferredPrompt = null;
+    //   });
+    // });
+    // window.addEventListener('appinstalled', (evt) => {
+    //   console.log('a2hs installed');
+    // });
   </script>
 
 </body>
