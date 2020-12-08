@@ -686,8 +686,8 @@ h1:after {
   width: 100%;
   display: block;
   position: relative;
-  column-gap: 1em;
-  columns: 2;
+  gap: 1em;
+  columns: 3;
   padding: 1em 0;
   background: #eeeeee33;
   clear: both
