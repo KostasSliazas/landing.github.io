@@ -683,20 +683,17 @@ h1:after {
 
 #footer {
   height: 120px;
-  width: 100%;
-  display: block;
+  display: flex;
   position: relative;
-  gap: 1em;
-  columns: 3;
-  padding: 1em 0;
+  padding: 1em;
   background: #eeeeee33;
+  overflow: hidden;
   clear: both
 }
-
-#footer::after {
-  content:"© 2020 designed by ]{";
-  line-height: 100px;
-  z-index: -1
+#footer span{vertical-align: top;}
+#footer .class10::after {
+  content:" designed by ]{";
+  white-space: nowrap;
 }
 
 .clearfix:after,
@@ -984,9 +981,7 @@ ul {
 
   #footer {
       position: relative;
-      text-align: right;
-      width: 100%;
-      min-height: 72px
+      flex-direction: column;
   }
 
   #footer .wrap {
