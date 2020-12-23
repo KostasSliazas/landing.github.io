@@ -1,66 +1,66 @@
 @keyframes border {
   15% {
-      border-image: linear-gradient(45deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
+    border-image: linear-gradient(45deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
   }
 
   25% {
-      border-image: linear-gradient(90deg, rgba(255, 255, 255, .7) 4px, transparent 4px) 1/4px
+    border-image: linear-gradient(90deg, rgba(255, 255, 255, .7) 4px, transparent 4px) 1/4px
   }
 
   35% {
-      border-image: linear-gradient(135deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
+    border-image: linear-gradient(135deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
   }
 
   50% {
-      border-image: linear-gradient(180deg, rgba(255, 255, 255, .7) 4px, transparent 4px) 1/4px
+    border-image: linear-gradient(180deg, rgba(255, 255, 255, .7) 4px, transparent 4px) 1/4px
   }
 
   55% {
-      border-image: linear-gradient(225deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
+    border-image: linear-gradient(225deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
   }
 
   75% {
-      border-image: linear-gradient(270deg, rgba(255, 255, 255, .7) 4px, transparent 4px) 1/4px
+    border-image: linear-gradient(270deg, rgba(255, 255, 255, .7) 4px, transparent 4px) 1/4px
   }
 
   85% {
-      border-image: linear-gradient(315deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
+    border-image: linear-gradient(315deg, rgba(255, 255, 255, .7) 4px, transparent 40px) 1/4px
   }
 }
 
 @keyframes scale {
   to {
-      transform: rotateZ(-45deg) scale(1.2)
+    transform: rotateZ(-45deg) scale(1.2)
   }
 }
 
 @-webkit-keyframes spin {
   0% {
-      -webkit-transform: rotate(0)
+    -webkit-transform: rotate(0)
   }
 
   to {
-      -webkit-transform: rotate(360deg)
+    -webkit-transform: rotate(360deg)
   }
 }
 
 @keyframes spin {
   0% {
-      transform: rotate(0)
+    transform: rotate(0)
   }
 
   to {
-      transform: rotate(360deg)
+    transform: rotate(360deg)
   }
 }
 
 @keyframes loader {
   0% {
-      transform: rotate(0)
+    transform: rotate(0)
   }
 
   to {
-      transform: rotate(360deg)
+    transform: rotate(360deg)
   }
 }
 
@@ -99,6 +99,7 @@ ul {
   vertical-align: bottom;
   outline: 0
 }
+
 html {
   -moz-osx-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
@@ -108,6 +109,7 @@ html {
   font-variant-ligatures: none;
   text-shadow: rgba(0, 0, 0, 0.05) 0 0 1px;
 }
+
 body {
   margin: 0;
   overflow-x: hidden;
@@ -690,7 +692,11 @@ h1:after {
   overflow: hidden;
   clear: both
 }
-#footer span{vertical-align: top;}
+
+#footer span {
+  vertical-align: top;
+}
+
 #footer .class10::after {
   content:" designed by ]{";
   white-space: nowrap;
@@ -771,9 +777,12 @@ nav ul {
   box-shadow: -1px 0 0 0 #bbb, -2px 0 0 0 #fefefe
 }
 
+.nav li {
+  line-height: inherit;
+}
+
 .nav>li {
   display: inline-block;
-  line-height: inherit;
   direction: rtl
 }
 
@@ -847,15 +856,15 @@ ul {
 
 @media only screen and (max-height:300px) {
   .exp li ul {
-      overflow-y: auto;
-      overscroll-behavior-y: contain
+    overflow-y: auto;
+    overscroll-behavior-y: contain
   }
 }
 
 @media screen and (min-width:720px) {
   .nav {
-      max-width: max-content;
-      margin: 0 auto
+    max-width: max-content;
+    margin: 0 auto
   }
 }
 
@@ -863,12 +872,12 @@ ul {
 
   #leftcolumn span,
   .box {
-      scroll-margin-top: 12px
+    scroll-margin-top: 12px
   }
 
   #leftcolumn,
   #rightcolumn {
-      width: 100%
+    width: 100%
   }
 }
 
@@ -879,119 +888,119 @@ ul {
   #rightcolumn,
   .menu,
   nav {
-      width: 100%;
-      padding: 0
+    width: 100%;
+    padding: 0
   }
 
   .nav a {
-      padding: 0 72px
+    padding: 0 72px
   }
 
   .wrp {
-      scroll-padding-top: 48px;
-      padding-top: 48px
+    scroll-padding-top: 48px;
+    padding-top: 48px
   }
 
   .navwrap {
-      overflow-x: hidden;
-      overflow-y: auto;
-      overscroll-behavior-y: contain
+    overflow-x: hidden;
+    overflow-y: auto;
+    overscroll-behavior-y: contain
   }
 
   .exp li ul {
-      position: relative;
-      box-shadow: none;
-      text-indent: 24px;
-      background: #fff
+    position: relative;
+    box-shadow: none;
+    text-indent: 24px;
+    background: #fff
   }
 
   .hid,
   header {
-      display: none
+    display: none
   }
 
   .bur i,
   .nav a,
   .nav>li {
-      position: relative;
-      display: block
+    position: relative;
+    display: block
   }
 
   .bur:focus {
-      outline: 0
+    outline: 0
   }
 
   .bur {
-      -webkit-appearance: none;
-      -moz-appearance: none;
-      appearance: none;
-      display: inline-block;
-      overflow: hidden;
-      border-radius: 2px;
-      cursor: pointer;
-      z-index: 9998;
-      padding: 14px 12px 10px;
-      max-width: 48px;
-      border: 0;
-      background: 0 0;
-      backface-visibility: hidden
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    overflow: hidden;
+    border-radius: 2px;
+    cursor: pointer;
+    z-index: 9998;
+    padding: 14px 12px 10px;
+    max-width: 48px;
+    border: 0;
+    background: 0 0;
+    backface-visibility: hidden
   }
 
   .bur i {
-      height: 2px;
-      width: 24px;
-      font-size: 0;
-      margin: 0 0 4px;
-      background: #777;
-      text-align: center;
-      pointer-events: none;
-      -webkit-transform: translateZ(0);
-      transform: translateZ(0);
-      transition: .2s transform
+    height: 2px;
+    width: 24px;
+    font-size: 0;
+    margin: 0 0 4px;
+    background: #777;
+    text-align: center;
+    pointer-events: none;
+    -webkit-transform: translateZ(0);
+    transform: translateZ(0);
+    transition: .2s transform
   }
 
   .bur.act i:nth-child(1) {
-      transform: translateX(48px)
+    transform: translateX(48px)
   }
 
   .bur.act i:nth-child(2) {
-      transform: translateY(4px) rotateZ(135deg)
+    transform: translateY(4px) rotateZ(135deg)
   }
 
   .bur.act i:nth-child(3) {
-      transform: translateY(-2px) rotateZ(45deg)
+    transform: translateY(-2px) rotateZ(45deg)
   }
 
   .bur.act i:nth-child(4) {
-      transform: translateX(-48px)
+    transform: translateX(-48px)
   }
 
   .one,
   .two {
-      grid-template-columns: repeat(2, 1fr)
+    grid-template-columns: repeat(2, 1fr)
   }
 
   .tre {
-      grid-template-columns: repeat(1, 1fr)
+    grid-template-columns: repeat(1, 1fr)
   }
 
   .ran span:nth-child(3n+7) {
-      grid-column-end: span 2
+    grid-column-end: span 2
   }
 
   #footer {
-      position: relative;
-      flex-direction: column;
+    position: relative;
+    flex-direction: column;
   }
 
   #footer .wrap {
-      width: 100%;
-      margin: 0 auto
+    width: 100%;
+    margin: 0 auto
   }
 
   .box {
-      margin: 0 12px 12px;
-      padding: 12px
+    margin: 0 12px 12px;
+    padding: 12px
   }
 }
 
@@ -1291,145 +1300,145 @@ ul {
 
 @media only screen and (prefers-color-scheme:dark) {
   #theme::before {
-      content: "\263C"
+    content: "\263C"
   }
 
   #themesw:checked~#theme::before {
-      content: "\263E"
+    content: "\263E"
   }
 
   #themesw:checked~.theme {
-      background: #111
+    background: #111
   }
 
   .theme,
   .wrp h1:after,
   .wrp h1:before {
-      background: #111
+    background: #111
   }
 
   .navwrap .exp li ul,
   .wrp {
-      background-color: #000
+    background-color: #000
   }
 
   #theme:hover {
-      -webkit-transform: rotate(190deg);
-      transform: rotate(190deg)
+    -webkit-transform: rotate(190deg);
+    transform: rotate(190deg)
   }
 
   .wrp .box {
-      background: #050505
+    background: #050505
   }
 
   .wrp .allcontainer,
   .wrp .paveik span {
-      box-shadow: 0 0 0 2px #000
+    box-shadow: 0 0 0 2px #000
   }
 
   .bg,
   .wrp .bg {
-      background: repeating-linear-gradient(135deg, rgba(200, 200, 200, .2) 1000px, rgba(200, 200, 200, .1) 1001px), #000 fixed
+    background: repeating-linear-gradient(135deg, rgba(200, 200, 200, .2) 1000px, rgba(200, 200, 200, .1) 1001px), #000 fixed
   }
 
   .navwrap .nav a:hover {
-      background-size: 100% 48px
+    background-size: 100% 48px
   }
 
   .navwrap .nav a {
-      background: linear-gradient(#000 0 48px) no-repeat center/100% 0
+    background: linear-gradient(#000 0 48px) no-repeat center/100% 0
   }
 
   .navwrap a {
-      text-shadow: -1px -1px 0 #080808, -2px -2px 2px #111, 1px 1px 0 #080808, 2px 2px 2px #555
+    text-shadow: -1px -1px 0 #080808, -2px -2px 2px #111, 1px 1px 0 #080808, 2px 2px 2px #555
   }
 
   .navwrap .menu {
-      background: linear-gradient(to bottom, transparent 0, #080808 0, #080808 3px, transparent 3px, #080808 44px, #000 44px, #000 48px), linear-gradient(135deg, #111 34px, #1f1f1f 34px, #1f1f1f 52px, #111 52px, #111 70px, #1f1f1f 70px, #1f1f1f 88px, #111 88px, #111 106px, #1f1f1f 106px, #1f1f1f 124px, #111 124px, #111 142px, #1f1f1f 142px)
+    background: linear-gradient(to bottom, transparent 0, #080808 0, #080808 3px, transparent 3px, #080808 44px, #000 44px, #000 48px), linear-gradient(135deg, #111 34px, #1f1f1f 34px, #1f1f1f 52px, #111 52px, #111 70px, #1f1f1f 70px, #1f1f1f 88px, #111 88px, #111 106px, #1f1f1f 106px, #1f1f1f 124px, #111 124px, #111 142px, #1f1f1f 142px)
   }
 
   .navwrap .menu,
   .navwrap nav ul {
-      box-shadow: 0 1px 0 0 #000 inset, 0 -1px 0 0 #222 inset
+    box-shadow: 0 1px 0 0 #000 inset, 0 -1px 0 0 #222 inset
   }
 
   .navwrap .nav>li:first-of-type {
-      box-shadow: -1px 0 0 0 #000, -2px 0 0 0 #222
+    box-shadow: -1px 0 0 0 #000, -2px 0 0 0 #222
   }
 
   .navwrap .exp li ul {
-      box-shadow: 0 0 0 1px #000 inset, 0 1px 2px 0 #666
+    box-shadow: 0 0 0 1px #000 inset, 0 1px 2px 0 #666
   }
 
   .navwrap .exp li a {
-      box-shadow: -1px -1px 0 0 #222 inset, -2px 1px 0 0 #000 inset;
-      color: #eee
+    box-shadow: -1px -1px 0 0 #222 inset, -2px 1px 0 0 #000 inset;
+    color: #eee
   }
 
   .exp [role=button]::after {
-      border-right: 1px solid currentColor;
-      border-bottom: 1px solid currentColor
+    border-right: 1px solid currentColor;
+    border-bottom: 1px solid currentColor
   }
 
   #themesw:checked~.exp [role=button]::after {
-      border-right: 1px solid currentColor;
-      border-bottom: 1px solid currentColor
+    border-right: 1px solid currentColor;
+    border-bottom: 1px solid currentColor
   }
 
   #themesw:checked~.navwrap .exp li ul,
   #themesw:checked~.wrp {
-      background-color: #f3f3f3
+    background-color: #f3f3f3
   }
 
   #themesw:checked~.theme,
   #themesw:checked~.wrp h1:after,
   #themesw:checked~.wrp h1:before {
-      background: #eee
+    background: #eee
   }
 
   #themesw:checked~.wrp .box {
-      background: #fafafa
+    background: #fafafa
   }
 
   #themesw:checked~.wrp .allcontainer,
   #themesw:checked~.wrp .paveik span {
-      box-shadow: 0 0 0 2px #eee
+    box-shadow: 0 0 0 2px #eee
   }
 
   #themesw:checked~.bg,
   #themesw:checked~.wrp .bg {
-      background: repeating-linear-gradient(135deg, rgba(55, 55, 55, .2) 1000px, rgba(55, 55, 55, .1) 1001px), #fff fixed
+    background: repeating-linear-gradient(135deg, rgba(55, 55, 55, .2) 1000px, rgba(55, 55, 55, .1) 1001px), #fff fixed
   }
 
   #themesw:checked~.navwrap a,
   .header a {
-      text-shadow: none
+    text-shadow: none
   }
 
   #themesw:checked~.navwrap .menu {
-      background: linear-gradient(135deg, #eee 34px, #f3f3f3 34px, #f3f3f3 52px, #eee 52px, #eee 70px, #f3f3f3 70px, #f3f3f3 88px, #eee 88px, #eee 106px, #f3f3f3 106px, #f3f3f3 124px, #eee 124px, #eee 142px, #f3f3f3 142px)
+    background: linear-gradient(135deg, #eee 34px, #f3f3f3 34px, #f3f3f3 52px, #eee 52px, #eee 70px, #f3f3f3 70px, #f3f3f3 88px, #eee 88px, #eee 106px, #f3f3f3 106px, #f3f3f3 124px, #eee 124px, #eee 142px, #f3f3f3 142px)
   }
 
   #themesw:checked~.navwrap .nav a {
-      background: linear-gradient(#fff 0 48px) no-repeat center/100% 0;
-      color: #333
+    background: linear-gradient(#fff 0 48px) no-repeat center/100% 0;
+    color: #333
   }
 
   #themesw:checked~.navwrap .menu,
   #themesw:checked~.navwrap nav ul {
-      box-shadow: 0 1px 0 0 #fff inset, 0 -1px 0 0 #ddd inset
+    box-shadow: 0 1px 0 0 #fff inset, 0 -1px 0 0 #ddd inset
   }
 
   #themesw:checked~.navwrap .nav>li:first-of-type {
-      box-shadow: -1px 0 0 0 #ddd, -2px 0 0 0 #fff
+    box-shadow: -1px 0 0 0 #ddd, -2px 0 0 0 #fff
   }
 
   #themesw:checked~.navwrap .exp li ul {
-      box-shadow: 0 0 0 1px #fff inset, 0 1px 2px 0 #999
+    box-shadow: 0 0 0 1px #fff inset, 0 1px 2px 0 #999
   }
 
   #themesw:checked~.navwrap .exp li a {
-      box-shadow: -1px -1px 0 0 #ddd inset, -2px 1px 0 0 #fff inset
+    box-shadow: -1px -1px 0 0 #ddd inset, -2px 1px 0 0 #fff inset
   }
 }
 
