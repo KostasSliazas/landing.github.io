@@ -1096,7 +1096,12 @@ ul {
   opacity: 0;
   transition: .6s opacity;
   bottom: 0;
+  filter: grayscale(1);
   margin: auto
+}
+
+.imgcontainer a:hover {
+  filter: grayscale(0);
 }
 
 .imgcontainer img {
