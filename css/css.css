@@ -685,9 +685,9 @@ h1:after {
 
 #footer {
   height: 120px;
-  display: flex;
   position: relative;
   padding: 1em;
+  text-align: right;
   background: #eeeeee33;
   overflow: hidden;
   clear: both
@@ -877,7 +877,8 @@ ul {
 
   #leftcolumn,
   #rightcolumn {
-    width: 100%
+    width: 100%;
+    padding: 0;
   }
 }
 
@@ -986,11 +987,6 @@ ul {
 
   .ran span:nth-child(3n+7) {
     grid-column-end: span 2
-  }
-
-  #footer {
-    position: relative;
-    flex-direction: column;
   }
 
   #footer .wrap {
