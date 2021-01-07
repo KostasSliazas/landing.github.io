@@ -777,7 +777,7 @@ nav ul {
   box-shadow: -1px 0 0 0 #bbb, -2px 0 0 0 #fefefe
 }
 
-.nav li {
+.exp li ul,.nav li {
   line-height: inherit;
 }
 
