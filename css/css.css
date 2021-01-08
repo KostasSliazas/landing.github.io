@@ -194,6 +194,7 @@ html {
   background: #fafafa;
   padding: 12px;
   margin-bottom: 24px;
+  overflow-x: hidden;
   box-shadow: 0 0 2px 0 rgba(0, 0, 0, .5);
   border-radius: 2px
 }
@@ -1481,4 +1482,8 @@ ul {
 .btnsd:active {
   position: relative;
   top: 1px
+}
+
+._51m-._2pir._51mw {
+  display: none;
 }
