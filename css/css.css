@@ -470,10 +470,6 @@ a:hover {
   clear: both
 }
 
-.group {
-  zoom: 1
-}
-
 .paveik span {
   font-size: 1em;
   counter-increment: counter;
@@ -713,10 +709,6 @@ h1:after {
 
 .clearfix:after {
   clear: both
-}
-
-.clearfix {
-  zoom: 1
 }
 
 #main,
