@@ -1475,3 +1475,7 @@ ul {
   position: relative;
   top: 1px
 }
+.cookieinfo-close {
+  z-index: 999;
+  position: relative;
+}
