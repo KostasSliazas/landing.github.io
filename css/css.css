@@ -681,11 +681,10 @@ h1:after {
 }
 
 #footer {
-  height: 120px;
+  height: 72px;
   position: relative;
   padding: 1em;
   text-align: right;
-  background: #eeeeee33;
   overflow: hidden;
   clear: both
 }
