@@ -229,7 +229,9 @@ h5 {
 h5 {
   margin: 2.4em 0 0
 }
-
+.h24{
+  height: 24px;
+}
 h1 {
   font-size: 1.5em;
   line-height: 1em;
